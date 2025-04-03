@@ -1,13 +1,7 @@
 ### Hi there 👋, My Name is Nick
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNsGames07)](https://github.com/anuraghazra/github-readme-stats)
 
-My name is Nick and I am 17 years old and I enjoy coding and learning different languages. 
-
-Among other things, I spend a lot of time learning JavaScript, and I also use it to create my Discord bots. Python I have also made a Discord bot with it and a password generator. 
-
-I have to take HTML for my school exam. Besides coding for myself, I am also working on a Fivem server with a team around it to turn it into a nice server. In addition, languange lua and database knowledge, mysql and more things that have to do with a database are also involved!
-
- I will continue to do coding for fun because I want to enjoy it and later make it my profession. And here on this GitHub I will upload fun projects and people can download them if necessary.
+My name is Nick and I am 18 years old and I enjoy coding and learning different languages. 
 
 Skills: JS / PYTHON / LUA / HTML 
 
